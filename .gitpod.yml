@@ -1,0 +1,7 @@
+vscode:
+ extensions:
+   - Revaturepro-non-prod.revature-labs-non-prod
+   - vscjava.vscode-java-test
+   - redhat.java
+   - Pivotal.vscode-boot-dev-pack
+   - richardwillis.vscode-gradle
